@@ -82,8 +82,12 @@ principles:
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiliancolomboo-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiliancolomboo-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wiliancolomboo-tech&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wiliancolomboo-tech&theme=tokyonight" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=wiliancolomboo-tech&theme=tokyonight&hide_border=true" width="98%" />
 </div>
 
 <br/>
