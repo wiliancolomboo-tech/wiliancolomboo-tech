@@ -70,6 +70,22 @@ principles:
 
 ---
 
+---
+
+### 📦 Developer Tools & Digital Software Suite (Polar.sh)
+
+Pre-built developer CLI utilities, automated security templates, and high-performance Web3 invariant testing tools. Distributed officially via **Polar.sh** (Merchant of Record) with instant delivery:
+
+| Product & Architecture | Scope & Deliverables | Pricing | Direct Checkout |
+| :--- | :--- | :---: | :---: |
+| **Auto-DevOps Swarm CLI & Developer Automation Suite** | High-throughput CLI tools, automated GitHub CI/CD action routines, and system optimization utilities. | **9.00 USD** | [🚀 Instant Access](https://buy.polar.sh/polar_cl_2WH8JpTV6agR6iSf2EsaeOcUjIFvQw0iYHbNL3T01TC) |
+| **GitHub CI/CD Security Audit & Scanner Template** | Production GitHub Actions workflow and automated security auditing scripts for secret leakage and dependency drift. | **5.00 USD** | [🛡️ Instant Access](https://buy.polar.sh/polar_cl_JNgKBKfYool7FMPYJnCgndLQnMJSpScQIVJW43IUrBp) |
+| **Web3 Smart Contract Fuzzer & Invariant Suite** | Pre-compiled Foundry & Slither automated fuzzing ruleset for access control, reentrancy guards, and ERC20 invariants. | **9.00 USD** | [⚡ Instant Access](https://buy.polar.sh/polar_cl_x7wWj0wf1n6TxS2uKEgLnlkdx1WuUOfd5eJ1m1kFoj3) |
+
+[![Powered by Polar](https://img.shields.io/badge/Storefront-Polar.sh-black?style=for-the-badge&logo=polar)](https://polar.sh)
+
+---
+
 ### 🚀 Key Projects & Architecture Highlights
 
 - ⚡ **[Solana Actions & Dialect Blinks](https://github.com/wiliancolomboo-tech/web3-solana-action---dialect-blink-for-1-41116e):** Open-standard Action implementation for 1-click social vault deposits and automated liquidity rebalancing.
